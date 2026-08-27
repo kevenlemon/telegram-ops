@@ -2,7 +2,7 @@ fastapi==0.115.6
 uvicorn[standard]==0.32.1
 telethon==1.38.1
 SQLAlchemy==2.0.36
-PyMySQL==1.1.1
+PyMySQL==1.2.0
 alembic==1.14.0
 pydantic-settings==2.6.1
 python-multipart==0.0.19
